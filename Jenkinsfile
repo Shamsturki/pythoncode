@@ -6,7 +6,7 @@ pipeline {
    
      stage('Install Dependencies') { 
         steps { 
-           echo "insatalling dependecnices" 
+           echo "insatalling dependecnices and checking test" 
         }
      }
      
